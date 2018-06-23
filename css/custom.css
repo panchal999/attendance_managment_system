@@ -1,0 +1,86 @@
+/*--------------------   Help Tags --------------------- */
+		.tag{
+			margin:auto;
+			min-width: 200px;
+			margin-right: 5%;
+			margin-left:  5%;
+			margin-top: 20px;
+			margin-bottom : 20px;
+			border-radius: 7px;
+			border: 2px solid lightblue;
+			 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		}
+
+		.tag-header{
+			 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			margin:auto;
+			min-width: 200px;
+			margin-right: 35%;
+			margin-left:  35%;
+			margin-top: 40px;
+			margin-bottom : 50px;
+			border-radius: 7px;
+			border: 2px solid blue;
+		}
+
+				
+
+		.header
+		{
+			margin-top: : 0px;
+				
+			margin-bottom: 0px;
+			border-radius: 0px;
+			background-color:   #555555;
+			padding: 19px;
+			 color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+			font-size: 29px;
+			text-align: center;
+
+		}
+
+		.title
+		{
+			margin-top: : 0px;
+				
+			margin-bottom: 0px;
+			border-radius: 0px;
+			background-color: #008CBA;
+			padding: 8px;
+			font-size: 23px;
+			color: white;
+			text-align: center;
+		}
+
+		.data
+		{
+			padding: 10px;
+
+			background-color: #e7e7e7;
+
+			font-size: 19px;
+			color: black;
+		}
+
+
+/*--------------------   About us Tags --------------------- */
+
+div.polaroid {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+div.container-temp {
+  padding: 10px;
+}
+
+
+/*--------------------   Help Tags --------------------- */
+
+
+/*--------------------   Help Tags --------------------- */
+
+
+/*--------------------   Help Tags --------------------- */
